@@ -1,3 +1,4 @@
+# author : saargunam
 # AWS EC2 Instance Terraform module
 
 Terraform module which creates EC2 instance(s) on AWS.
